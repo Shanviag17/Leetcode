@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Shanviag17/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Shanviag17/Leetcode/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Shanviag17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Shanviag17/Leetcode/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/Shanviag17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shanviag17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Shanviag17/Leetcode/tree/master/0200-number-of-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -53,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shanviag17/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Shanviag17/Leetcode/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shanviag17/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shanviag17/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shanviag17/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
