@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shanviag17/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Shanviag17/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shanviag17/Leetcode/tree/master/0018-4sum) |
+| [0054-spiral-matrix](https://github.com/Shanviag17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shanviag17/Leetcode/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Shanviag17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/Shanviag17/Leetcode/tree/master/0198-house-robber) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shanviag17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Shanviag17/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Shanviag17/Leetcode/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Shanviag17/Leetcode/tree/master/0875-koko-eating-bananas) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shanviag17/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
