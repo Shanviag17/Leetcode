@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shanviag17/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Shanviag17/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shanviag17/Leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Shanviag17/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Shanviag17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shanviag17/Leetcode/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Shanviag17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shanviag17/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shanviag17/Leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Shanviag17/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0876-middle-of-the-linked-list](https://github.com/Shanviag17/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shanviag17/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/Shanviag17/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shanviag17/Leetcode/tree/master/0213-house-robber-ii) |
 ## Binary Search
@@ -88,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shanviag17/Leetcode/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shanviag17/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shanviag17/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
