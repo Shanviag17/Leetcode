@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shanviag17/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shanviag17/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Shanviag17/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shanviag17/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Shanviag17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Shanviag17/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Shanviag17/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Shanviag17/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shanviag17/Leetcode/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shanviag17/Leetcode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Shanviag17/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
