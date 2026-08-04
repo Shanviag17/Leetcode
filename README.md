@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shanviag17/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Shanviag17/Leetcode/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/Shanviag17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Shanviag17/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Shanviag17/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shanviag17/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Shanviag17/Leetcode/tree/master/0213-house-robber-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shanviag17/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shanviag17/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shanviag17/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Shanviag17/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shanviag17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shanviag17/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Shanviag17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shanviag17/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Shanviag17/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Shanviag17/Leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Shanviag17/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shanviag17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shanviag17/Leetcode/tree/master/0242-valid-anagram) |
 ## Union-Find
@@ -133,4 +136,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Shanviag17/Leetcode/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shanviag17/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shanviag17/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shanviag17/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
