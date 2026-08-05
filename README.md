@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shanviag17/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shanviag17/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Shanviag17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Shanviag17/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shanviag17/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shanviag17/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Shanviag17/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shanviag17/Leetcode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shanviag17/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
