@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shanviag17/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Shanviag17/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shanviag17/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Shanviag17/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Shanviag17/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shanviag17/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Shanviag17/Leetcode/tree/master/0322-coin-change) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shanviag17/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanviag17/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Shanviag17/Leetcode/tree/master/0038-count-and-say) |
+| [0131-palindrome-partitioning](https://github.com/Shanviag17/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Shanviag17/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shanviag17/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Shanviag17/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Shanviag17/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shanviag17/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Shanviag17/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Queue
 |  |
 | ------- |
